@@ -47,7 +47,7 @@ Clone o repositório:
 1. Entre no diretório do repositório:
 
    ```sh
-   cd login-app/login-app
+   cd login-app/login-front-app
    ```
 
 2. Baixe as dependências:
